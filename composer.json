@@ -1,0 +1,21 @@
+{
+    "name": "kowali/support",
+    "description": "Support class of the Kowali framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Hupkens",
+            "email": "thomas@hupkens.be"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kowali\\Support\\" : "src/Kowali/Support/"
+        }
+    },
+    "minimum-stability": "stable"
+}
