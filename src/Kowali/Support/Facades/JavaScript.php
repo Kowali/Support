@@ -1,4 +1,4 @@
-<?php namespace Kowali\I18n;
+<?php namespace Kowali\Support\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
