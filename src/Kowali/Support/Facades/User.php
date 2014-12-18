@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Facade;
 
-class Locale extends Facade {
+class User extends Facade {
 
 	/**
      * Return the name of the IOC biding behind the facade
